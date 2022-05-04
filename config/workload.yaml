@@ -10,4 +10,4 @@ spec:
     git:
       ref:
         branch: main
-      url: https://github.com/m-nara/node-express.git
+      url: https://github.com/masanara/node-express.git
